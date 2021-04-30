@@ -18,3 +18,8 @@ Here is the category.
 | [Exercise 6](./exercise6) | SVM |
 | [Exercise 7](./exercise7) | Kmeans and PCA |
 | [Exercise 8](./exercise8) | Anomaly detection and Recomend system |
+
+Reference:
+
+- https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes
+- https://gitee.com/celebi_moon_night_cat/Coursera-ML-using-matlab-python
